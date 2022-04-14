@@ -1,8 +1,8 @@
 # webpack
 
-webpack 学习
+webpack 入门
 
-## 1.package.json 文件中 "main": "index.js" 默认会去找 src 目录下的 index.js 文件
+## package.json 文件中 "main": "index.js" 默认会去找 src 目录下的 index.js 文件
 
 ## 仅在项目中安装 webpack，打包命令：npx webpack (安装 npm 后可使用 npx); 全局安装 webpack 可直接使用 webpack 命令
 
