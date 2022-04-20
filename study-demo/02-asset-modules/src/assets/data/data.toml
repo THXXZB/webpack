@@ -1,0 +1,9 @@
+title = 'toml配置文件'
+
+[default]
+name = 'tt'
+age = 18
+
+[testing]
+name = 'yy'
+age = 18

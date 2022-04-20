@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'iconfont';
+    src: url('./assets/卡通字体.ttf') format('truetype');
+}
+
+.icon{
+    font-family: 'iconfont';
+    font-size: 30px;
+}
+
+.hello {
+    color: #f40;
+}
+
+.block-bg{
+    background-image: url(./assets/西瓜.webp) !important;
+}
