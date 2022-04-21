@@ -1,0 +1,22 @@
+title: yaml example
+student:
+  name: 小明
+  age: 18
+  birthday: 1999/12/26
+  sex: true
+  map:
+      k1: map1
+      k2: map2
+  companies:
+    -
+        id: 1
+        name: company1
+        price: 200W
+    -
+        id: 2
+        name: company2
+        price: 500W
+  grade:
+    name: 1812班
+    director: 王主任
+    
