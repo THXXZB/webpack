@@ -1,0 +1,11 @@
+// json5文件是json文件的一个升级
+// 可以加注释、key值无需双引号、value值可以用单引号''、可以使用转义字符(\n\r)
+
+{
+    title: 'JSON5 Example',
+    owner: {
+        name: 'tt',
+        age: 18,
+        des: 'hello world \n hhhh'
+    }
+}
